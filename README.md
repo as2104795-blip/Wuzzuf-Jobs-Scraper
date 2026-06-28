@@ -31,7 +31,9 @@ Here is a preview of how the extracted data looks inside the generated Excel fil
 | :--- | :--- | :--- | :--- | :--- |
 
 | Python Developer | Cairo Team - | New Cairo, Cairo | Full Time | 2 days ago |
+
 | Data Analyst (Python) | Tech Corp - | Maadi, Cairo | Remote | 1 week ago |
+
 | Backend Engineer | Software Solutions - | Alexandria | Hybrid | 5 hours ago |
 
 *Note: The generated file also includes direct, clickable links to each job listing on Wuzzuf.*
